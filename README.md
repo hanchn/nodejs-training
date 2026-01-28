@@ -18,6 +18,7 @@
 * [作用域与闭包、原型链、this、class、模块化语义](./docs/1.1/01.md)
 * [Promise / async-await 的本质](./docs/1.1/02.md)
 * [常见坑：循环引用、浅拷贝深拷贝、浮点数、BigInt](./docs/1.1/03.md)
+* [Node.js 深拷贝该怎么做](./docs/1.1/04.md)
 
 ### 1.2 Node 运行时概念
 
